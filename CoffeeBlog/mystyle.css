@@ -1,0 +1,21 @@
+/*global*/
+*{
+    marging:0;
+    padding:0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    line-height: 2;
+}
+img{max-width: 100%;}
+/*utilities*/
+
+/*header*/
+.site-init{
+    background-image:  url(./coffee-images-main/img/banner.jpg );
+    height: 300px;
+    text-align: center;
+    color: white;
+}
